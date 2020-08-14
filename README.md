@@ -1,6 +1,7 @@
 ### howdy, welcome to the farm 👋
 
 <table><tr><td valign="top">
+
 ### Info 
 
 * https://bitsofinfo.wordpress.com/
@@ -8,6 +9,7 @@
 * https://medium.com/@bitsofinfo.g
   
 </td><td valign="top">
+
 ### Articles
 
 <!-- BLOGPOSTS:START -->
