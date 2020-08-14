@@ -13,7 +13,7 @@
 <!-- BLOGPOSTS:END -->
 </td><td valign="top">
 
-### Links to the internet
+### Links to the internet (F12)
 * https://bitsofinfo.wordpress.com/
 * https://twitter.com/bitsofinfo
 * https://medium.com/@bitsofinfo.g
