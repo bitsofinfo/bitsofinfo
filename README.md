@@ -10,7 +10,7 @@
   
 </td><td valign="top">
 
-### Articles
+### Recent articles
 
 <!-- BLOGPOSTS:START -->
 - [State management in Tekton pipelines with Slack interactive messages](https://bitsofinfo.wordpress.com/2020/08/13/tekton-pipelines-cicd-slack-triggers-state/)
