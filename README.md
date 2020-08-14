@@ -13,7 +13,7 @@
 <!-- BLOGPOSTS:END -->
 </td><td valign="top">
 
-### Info 
+### Links to the internet
 * https://bitsofinfo.wordpress.com/
 * https://twitter.com/bitsofinfo
 * https://medium.com/@bitsofinfo.g
