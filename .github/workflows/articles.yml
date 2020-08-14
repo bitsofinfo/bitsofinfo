@@ -1,0 +1,26 @@
+name: articles workflow
+on:
+  schedule:
+    - cron: '*/1 * * * *'
+
+jobs:
+  pull_blog_rss:
+    name: Update with latest articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: https://bitsofinfo.wordpress.com/feed/
+          count: 6
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'bitsofinfo'
+            git config --global user.email 'bitsofinfo.g@gmail.com'
+            git add .
+            git diff --quiet --cached || git commit -m "articles update"    
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
