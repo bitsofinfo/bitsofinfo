@@ -1,6 +1,6 @@
 ### howdy, welcome to the farm :cow:
 
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="60%">
 
 ### Recent articles
 <!-- BLOGPOSTS:START -->
