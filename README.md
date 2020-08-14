@@ -1,4 +1,4 @@
-### howdy, welcome to the farm 👋
+### howdy, welcome to the farm :cow:
 
 <table><tr><td valign="top">
 
