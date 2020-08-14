@@ -2,7 +2,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-### Recent articles
+### Recent thought dumps
 <!-- BLOGPOSTS:START -->
 - [State management in Tekton pipelines with Slack interactive messages](https://bitsofinfo.wordpress.com/2020/08/13/tekton-pipelines-cicd-slack-triggers-state/)
 - [Local developer CI/CD with Tilt](https://bitsofinfo.wordpress.com/2020/06/01/local-ci-cd-kubernetes-tilt/)
