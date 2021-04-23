@@ -16,6 +16,6 @@
 ### Explore with your F12 key
 * https://bitsofinfo.wordpress.com/
 * https://twitter.com/bitsofinfo
-* https://medium.com/@bitsofinfo.g
+* https://medium.com/@bitsofinfo
 </td></tr></table>
 
