@@ -17,5 +17,6 @@
 * https://bitsofinfo.wordpress.com/
 * https://twitter.com/bitsofinfo
 * https://medium.com/@bitsofinfo
+* https://www.youtube.com/channel/UCpVquzXdosVwSbJUwXdQy6A
 </td></tr></table>
 
